@@ -1,0 +1,17 @@
+# Hangman Solver - Dependencies
+# Python Standard Library modules used:
+# - csv: CSV file processing
+# - os: Operating system interface (file paths)
+# - sys: System-specific parameters and functions (command line args)
+# - typing: Type hints support
+
+# No external dependencies required!
+# This project uses only Python standard library modules.
+
+# Minimum Python version: 3.8+
+# Recommended Python version: 3.9+
+
+# If you want to add optional development dependencies:
+# pytest>=7.0.0      # For unit testing (optional)
+# black>=22.0.0       # For code formatting (optional)
+# mypy>=0.950         # For type checking (optional)
